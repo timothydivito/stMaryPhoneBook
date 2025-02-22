@@ -8,4 +8,36 @@
         <Name>1002 - Front Desk</Name>
         <Telephone>1002</Telephone>
     </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1003 - Lisa</Name>
+        <Telephone>1003</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1004 - Stan</Name>
+        <Telephone>1004</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1005 - Sonia</Name>
+        <Telephone>1005</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1006 - Jim</Name>
+        <Telephone>1006</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1007 - Tom</Name>
+        <Telephone>1007</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1010 - Portable</Name>
+        <Telephone>1010</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1011 - Fr. Mike Office</Name>
+        <Telephone>1011</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>1012 - Fr. Mike Rectory</Name>
+        <Telephone>1012</Telephone>
+    </DirectoryEntry>
 </YealinkIPPhoneDirectory>
