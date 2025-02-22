@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
     <DirectoryEntry>
-        <Name>John Doe</Name>
-        <Telephone>1234567890</Telephone>
+        <Name>1001 - Sharon</Name>
+        <Telephone>1001</Telephone>
     </DirectoryEntry>
     <DirectoryEntry>
-        <Name>Jane Smith</Name>
-        <Telephone>0987654321</Telephone>
+        <Name>1002 - Front Desk</Name>
+        <Telephone>1002</Telephone>
     </DirectoryEntry>
 </YealinkIPPhoneDirectory>
